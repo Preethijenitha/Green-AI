@@ -115,7 +115,7 @@ Background Worker:
 
 python pathway_pipeline/stream.py
 🎨 Frontend (Vercel)
-Simple HTML + JavaScript interface
+Streamlit
 Connected to FastAPI backend
 Displays predictions and live stats
 📊 Key Features
