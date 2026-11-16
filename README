@@ -59,8 +59,7 @@ python-multipart
 ⚡ Real-Time Processing
 Pathway (Streaming & Aggregation Engine)
 🎨 Frontend
-HTML
-JavaScript
+Streamlit
 Vercel Deployment
 ☁️ Deployment
 Render (Backend + Pathway Worker)
